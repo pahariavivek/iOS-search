@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Simple Search}
+  <content>
+# Simple Search
 Very basic implementation of BIR(The Boolean model of information retrieval). This search model can be used for most of the search needs in iOS projects 
 
 ## Usage
@@ -8,6 +8,5 @@ Very basic implementation of BIR(The Boolean model of information retrieval). Th
 2. in main.m change macro PATH_TO_DOCUMENTS_FOR_SEARCH to point to location of documents.txt
 3. do same for stoplist.txt in Tokenizer.h
 4. run
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+</content>
 </snippet>
